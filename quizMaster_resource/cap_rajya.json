@@ -1,0 +1,88 @@
+[
+    {
+        "1": "What is the capital of the god's own country Kerala?",
+        "2": "What is the capital of India's heart, Madhya Pradesh?",
+        "3": "What is the capital of the newly formed Chhattisgarh?",
+        "4": "What is the capital of the group of islands Andaman and Nicobar?",
+        "5": "What is the capital of the Himachal pradesh?",
+        "6": "Hyedrabad is a capital city of which state?",
+        "7": "What is the capital of Jharkhand?",
+        "8": "Which of the following city is not a capital of a North eastern states?",
+        "9": "Which Indian city is the capital of two states?"
+        "10": "What is the capital of the north eastern state, Nagaland?"
+    },
+    {
+        "1": {
+            "a": "Mumbai",
+            "b": "Kedarnath",
+            "c": "Haridwar",
+            "d": "Thiruvanantapuram"
+        },
+        "2": {
+            "a": "Bhopal",
+            "b": "Shivpuri",
+            "c": "indore",
+            "d": "Bhind"
+        },
+        "3": {
+            "a": "Itanagar",
+            "b": "Raipur",
+            "c": "Dehradun",
+            "d": "Bangalore"
+        },
+        "4": {
+            "a": "Gangtok",
+            "b": "Kavaratti",
+            "c": "Port Blair",
+            "d": "Trinkat"
+        },
+        "5": {
+            "a": "Dehradun",
+            "b": "Dharamshala",
+            "c": "Shimla",
+            "d": "Both b and C"
+        },
+        "6": {
+            "a": "Telangana",
+            "b": "Tamilnadu",
+            "c": "Andhra Pradesh",
+            "d": "Karnataka"
+        },
+        "7": {
+            "a": "Bhuvneshewar",
+            "b": "Ranchi",
+            "c": "Sanchi",
+            "d": "Siliguri"
+        },
+        "8": {
+            "a": "Dispur",
+            "b": "Imphal",
+            "c": "Aizwal",
+            "d": "Myanmar"
+        },
+        "9": {
+            "a": "Pune",
+            "b": "New Delhi",
+            "c": "Chandigarh",
+            "d": "Guwahati"
+        },
+        "10": {
+            "a": "Kohima",
+            "b": "Dispur",
+            "c": "Aizwal",
+            "d": "Bhind"
+        }
+    },
+    {
+        "1": "Thiruvanantapuram",
+        "2": "Bhopal",
+        "3": "Raipur",
+        "4": "Port Blair",
+        "5": "Both b and C",
+        "6": "Telangana",
+        "7": "Ranchi",
+        "8": "Myanmar",
+        "9": "Chandigarh",
+        "10": "Kohima"
+    }
+]
